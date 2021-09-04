@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#Adding MacOS something not source code (google)
+.DS_Store
+
 # C extensions
 *.so
 
